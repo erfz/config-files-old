@@ -34,3 +34,10 @@ URxvt.scrollBar: false
 URxvt*fading: 30
 URxvt.url-launcher:        /usr/bin/chromium
 URxvt.colorUL:             #7780a1
+
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
